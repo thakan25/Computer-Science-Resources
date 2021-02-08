@@ -1,7 +1,7 @@
 # Operating Systems
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
-
+- [CS140 Stanford](http://www.scs.stanford.edu/12au-cs140/notes/) (myChoice)
 - [How Stuff Works](https://computer.howstuffworks.com/operating-system.htm)
 - [Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_overview.htm)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/operating-system-introduction-operating-system-set-1/)
@@ -14,7 +14,6 @@
 - [10 Concepts of OS](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 - [OS Development](https://www.whoishostingthis.com/resources/os-development/)
 - [David Morgan](https://homepage.smc.edu/morgan_david/cs40/CourseProgressTemplate.htm)
-- [CS140 Stanford](http://www.scs.stanford.edu/12au-cs140/notes/)
 - [Reddit Linux](https://www.reddit.com/r/linux/)
 - [Unix Tutorial](http://www.tutorialspoint.com/unix/)
 - [Linux Training](http://linux-training.be/)
